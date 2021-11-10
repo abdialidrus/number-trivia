@@ -1,0 +1,4 @@
+#Tue Nov 09 19:26:21 WIB 2021
+base.0=/Users/abdialidrus/Documents/mobile-app-projects/personal/new_number_trivia/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
